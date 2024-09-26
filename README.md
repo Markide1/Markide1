@@ -1,5 +1,5 @@
 # 💫 About Me:
-👷 I'm working on a Habits App with NodeJs and Typescript.<br>🙋 Looking to collaborate on Web Apps.<br>🧗 Currently learning about building and deployments on the cloud.<br>✨ Fun fact: I started coding as a fun activity, and now I have grown to love it.
+👷 I'm working on a Habits App with NodeJs and Typescript.<br>🙋 Looking to collaborate on Web Apps.<br>🧗 Currently learning about building and deployments on the cloud.<br>✨ Fun fact: I started coding as a fun activity and have grown to love it.
 
 
 ## 🌐 Socials:
@@ -17,11 +17,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Markide1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Markide1&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
