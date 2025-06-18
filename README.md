@@ -37,7 +37,6 @@ I'm a full-stack web developer passionate about building dynamic applications wi
   <img src="https://github-readme-stats.vercel.app/api?username=Markide1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Markide1&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markide1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
