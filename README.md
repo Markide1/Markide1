@@ -72,11 +72,9 @@ I'm a full-stack web developer passionate about building dynamic applications wi
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=mm&theme=tokyonight&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Markide1&theme=tokyonight&hide_border=true) <br/>
 
 </div>
-
-
 
 <div align="center">
 
