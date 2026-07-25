@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge)](https://portv3-kappa.vercel.app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge)](https://markide.me )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark_Ndwiga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-ndwiga)
 [![Email](https://img.shields.io/badge/Email-markndwiga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markndwiga@gmail.com)
 
